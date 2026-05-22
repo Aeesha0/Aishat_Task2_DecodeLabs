@@ -49,8 +49,8 @@ Because individual item unit prices are strictly capped at a maximum of $699.93,
 
 ## Generated Visualizations
 The analytics script automates the generation and preservation of two visual assets saved directly to the project directory:
-1. data_distributions.png: A side-by-side histogram displaying density curves that contrast the near-perfect symmetry of product unit costs against the right-skewed revenue tail of final order totals.
-2. total_price_boxplot.png: A horizontal box plot charting the specific distribution boundaries of the dataset, providing visual proof of the five-number boundaries and charting the precise placement of high-value revenue outliers.
+1. data_distributions(five number summary & outlier map).png: A side-by-side histogram displaying density curves that contrast the near-perfect symmetry of product unit costs against the right-skewed revenue tail of final order totals.
+2. total_unit_price_boxplot.png: A horizontal box plot charting the specific distribution boundaries of the dataset, providing visual proof of the five-number boundaries and charting the precise placement of high-value revenue outliers.
 
 ---
 
